@@ -1,0 +1,22 @@
+{
+  "name": "CuipdLove_paid_feature_added",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oned0t/cupidLove.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oned0t/cupidLove/issues"
+  },
+  "homepage": "https://github.com/oned0t/cupidLove#readme",
+
+  "postinstall" : "npx jetify"
+}
